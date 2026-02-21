@@ -1,2 +1,2 @@
 # miQuintoRepo
-mi primer releas
+Mi primer paquete pip (mi primer releas)
